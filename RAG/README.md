@@ -34,7 +34,7 @@ Extensive Integrations: Connects with a wide array of LLMs, data sources, and ot
 Chains: Allows you to create complex workflows by chaining together multiple components (prompts, LLMs, agents).  
 Memory: Provides mechanisms for maintaining context and history in LLM interactions.  
 Best for: Developers who need a versatile framework to build custom LLM applications with complex logic and integrations.
-
+![alt text](images/image.png)
 ```
 In essence, LlamaIndex streamlines the entire RAG process by:
 
